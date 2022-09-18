@@ -1,11 +1,10 @@
 # Template de Portfolio
 
-O portfólio é um material (físico ou online) que reúne amostras de seus melhores trabalhos. Trata-se de uma demonstração prática de suas habilidades e experiências profissionais e/ou acadêmicas, o que será fundamental para o recrutador avaliar se você é criativo e se domina as técnicas e habilidades que o cargo exige.
+Programa criado por mim com funcionalidades como: Login, Cadastro, Alterar Email, Alterar Senha, Excluir Conta. É possivel também realizar um pequeno teste teorico sobre a tecnologia Python dentro do programa. 
 
 ## Tecnologias utilizadas
 
-<li>HTML</li>
-<li>CSS</li>
+<li>Python</li>
 
 ## Contato
 
