@@ -1,4 +1,4 @@
-# Template de Portfolio
+# Teste Teôrico Python
 
 Programa criado por mim com funcionalidades como: Login, Cadastro, Alterar Email, Alterar Senha, Excluir Conta. É possivel também realizar um pequeno teste teorico sobre a tecnologia Python dentro do programa. 
 
